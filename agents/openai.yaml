@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Roundtable DeepSeek"
+  short_description: "Codex-led DeepSeek v4 Pro research review workflow."
+  default_prompt: "Use $research-roundtable-deepseek for read-only DeepSeek advice on a shared packet and approved project root; Codex integrates the advice and acts only after user authorization."

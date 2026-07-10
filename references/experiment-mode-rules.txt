@@ -1,0 +1,1 @@
+Experiment focus: Codex execution record, controls, logs summarized in packet, metrics, leakage, diagnosis, and verification.

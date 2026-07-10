@@ -1,0 +1,1 @@
+Procedure focus: direct executability, step order, frozen parameters, records, reproducibility, safety, leakage, stop and fallback paths.

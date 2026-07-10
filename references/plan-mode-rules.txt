@@ -1,0 +1,1 @@
+Plan focus: objective, novelty, baselines, labels, leakage, ablations, statistics, validation, constraints, minimum viable result.
